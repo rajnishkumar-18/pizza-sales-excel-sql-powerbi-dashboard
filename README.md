@@ -1,5 +1,8 @@
 🍕 Pizza Sales Dashboard
+
+
 📌 Project Overview
+
 An interactive Pizza Sales Dashboard analyzing sales data for 2015.
 
 Provides insights into:
@@ -49,11 +52,17 @@ Brie Carre Pizza = weakest performer
 Seasonal spikes in July & January
 📂 Project Structure
 📁 Pizza-Sales-Dashboard
+
  ┣ 📂 Data/       # Raw dataset (Excel/CSV)
+ 
  ┣ 📂 Queries/    # SQL scripts
+ 
  ┣ 📂 Output/     # SQL results & Power BI exports
+ 
  ┣ 📂 Images/     # Assets used in creating dashboard
+ 
  ┣ 📄 README.md   # Documentation
+ 
 ⚡ How to Use
 1. Clone Repository
 git clone https://github.com/rajnishkumar-18/pizza-sales-excel-sql-powerbi-dashboard.git
