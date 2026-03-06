@@ -96,7 +96,7 @@ An <b>interactive Pizza Sales Dashboard</b> analyzing sales data for <b>2015</b>
 
 <h3>1. Clone Repository</h3>
 <pre>
-git clone [https://github.com/rajnishkumar-18/pizza-sales-excel-sql-powerbi-dashboard.git]
+git clone https://github.com/rajnishkumar-18/pizza-sales-excel-sql-powerbi-dashboard.git
 cd Pizza-Sales-Dashboard
 </pre>
 
